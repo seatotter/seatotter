@@ -1,0 +1,22 @@
+body{
+	font-family:arial, helvetica, sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+
+#full_width{
+	float:left;
+	width:100%;
+}
+
+#wrapper{
+	margin:0 auto;
+	width:600px;
+}
+
+.header{
+	background:#506084;
+	padding:10px 0;
+}
+
